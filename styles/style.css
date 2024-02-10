@@ -99,6 +99,7 @@
 }
 
 .texto__imagens {
+    font-family: var(--fonte__all);
     text-align: center;
 }
 
